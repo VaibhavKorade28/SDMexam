@@ -1,0 +1,22 @@
+ Software Requirement Specifications
+Title-Employee Recruitment System
+
+Objective-
+The primary purpose to develop this system is to optimize the rcruitment process for an organization.
+This web project is aimed to provide complete solutions to the jobseekers,company for the recruitment procedure.This web project will make sure that that the jobseekers who are searching 
+for the jobs don't have to visit the company office physically to submit their aplications for job.It will also save the time and cost of the company to advertise their 
+job vacancies for various roles.
+
+Scope:
+This project will initially work within India.After certain peroid of time it will expand to other contries as well.  
+
+Requirements:
+1) Functional Requirements:
+i)Users/Candidate:The candidates should be able to register themselves to the website.Only registered candidates will be allowed to apply for  a job
+The candidates should be able to upload their resume/CV and apply for jobs suited to them.The candidates should be able to withdraw their applications within 24hrs from 
+the time of application.
+ii)Admin:system admin should should be able to view ,remove the candidates details.
+iii)Staff:
+Staff should be able to post their staffing requiremnts to the site.Staff should be able to view the profiles of interested candidates
+Staff should be able to shortlist the required candidates
+iv)

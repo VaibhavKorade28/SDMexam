@@ -1,0 +1,11 @@
+Business Entities for Employee Recruitment System:-
+
+1)User:
+Attributes-userid,passwd,username,email,phone
+2)Candidate:
+Attributes:
+candid,candname,passwd,email,phone,resume
+3)Application:
+Attributes:appl_id,candid,appl_date,job_id
+4)Job:
+Attributes:job_id,candid,job_desc
